@@ -1,5 +1,6 @@
 # String+ (s21_string+)
 
+![CI](https://github.com/abakar-dev/string-/workflows/C%20CI%20Pipeline/badge.svg)
 ![C Language](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![School21](https://img.shields.io/badge/School21-000000?style=for-the-badge)
 ![Tests](https://img.shields.io/badge/tests-85%25%20coverage-green?style=for-the-badge)
