@@ -6,6 +6,7 @@
 ![Tests](https://img.shields.io/badge/tests-85%25%20coverage-green?style=for-the-badge)
 ![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20macOS-lightgrey?style=for-the-badge)
+![Release](https://img.shields.io/github/v/release/abakar-dev/string-?style=for-the-badge)
 
 Реализация библиотеки string.h с дополнительными функциями на языке C (стандарт C11).
 
